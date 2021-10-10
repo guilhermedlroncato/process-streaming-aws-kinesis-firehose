@@ -1,4 +1,4 @@
-# Processamento Batch com dados do Censo Escolar 2020 
+# Processamento Streaming usando Kinesis Firehose 
 
 Implementação de um processamento batch usando a cloud AWS, infraestrutura como código com Terraform e esteira de deploy com GitHub Actions
 
